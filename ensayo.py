@@ -5,6 +5,7 @@ import unittest
 from tarjeta_sube import (
     NoHaySaldoException, 
     PRIMARIO,
+    SECUNDARIO,
     PRECIO_TICKET,
     Sube,
     UsuarioDesactivadoException,
